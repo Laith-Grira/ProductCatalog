@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1040069365948",
+    "firebase_url": "https://lab5-seg-2505-test1-default-rtdb.firebaseio.com",
+    "project_id": "lab5-seg-2505-test1",
+    "storage_bucket": "lab5-seg-2505-test1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040069365948:android:5e811cce2756fc57acc0b9",
+        "android_client_info": {
+          "package_name": "com.example.productcatalog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCah3eVK1lnDCgaLhKX9-DCp7m3G3U5vAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
